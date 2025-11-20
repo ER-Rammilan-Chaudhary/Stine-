@@ -267,6 +267,10 @@ h6{font-size: 14px;}
 .header .right_part {width: calc(100% - 130px);}
 
 .header .right_part ul li a{ font-size: 20px;}
+.hero_sec .wrapper{ height: 100%;}
+.hero_sec .img_box{ padding-bottom: 200px;}
+.main-content {margin-top: 80px;}
+
 .about_sec {padding: 50px 0 90px;}
 .service_sec { padding: 90px 0 50px; }
 .contact_sec { padding: 50px 0;}
